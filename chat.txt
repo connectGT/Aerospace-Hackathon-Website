@@ -1,0 +1,193 @@
+Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[9/19/26, 5:45:52 AM] You: maam ek mast idea aaya funds ke liye
+[9/19/26, 5:46:05 AM] You: agar kami ho toh
+[9/19/26, 5:46:14 AM] You: aur feasible ho toh
+[9/19/26, 5:47:19 AM] You: hum poshampa jaise cafe mein jaake stargazing krwa sakte hain, ya koi event type, for getting funds
+[9/19/26, 5:47:54 AM] You: also next skywatch ya koi bade event mein unko invite kr sakte hain
+[9/19/26, 10:18:51 AM] Cse Shreya Goyal✨senior: Ha kr skte hai
+[9/19/26, 10:19:21 AM] Cse Shreya Goyal✨senior: Skywatch prep ke time yaad rkhna iska
+[9/19/26, 10:39:15 AM] You: Oki
+[9/19/26, 8:50:05 PM] Cse Shreya Goyal✨senior: guru in how much time you can prepare a website for our hackathon (vibe code krke hi) ?
+[9/19/26, 8:52:16 PM] You: maam mujhe theme vagera mil jaega toh monday tuesday tak, akele bna dunga
+[9/19/26, 8:52:36 PM] You: baaki, testing vagera mein help mil jaegi, aur design mein
+[9/19/26, 8:52:42 PM] You: toh aur jaldi hojaega
+[9/19/26, 8:53:16 PM] Cse Shreya Goyal✨senior: https://www.hacksagon.com/
+check this out for reference
+[9/19/26, 8:53:18 PM] You: mostly mein kaam akele krta hu, iss baar sath mein krunga logo ke sath toh dekhte hain, jaldi bn jaani chiye
+[9/19/26, 8:53:52 PM] You: ye thodi basic nhi hai?
+[9/19/26, 8:54:06 PM] You: ig voh event hua tha na, clg fest
+[9/19/26, 8:54:10 PM] You: kya naam tha
+[9/19/26, 8:54:19 PM] Cse Shreya Goyal✨senior: limited time me bn jaye wo dekhkr send ki hai
+[9/19/26, 8:54:28 PM] Cse Shreya Goyal✨senior: agr koi aur refernce hai to send kro
+[9/19/26, 8:54:33 PM] You: okay okay
+[9/19/26, 8:54:51 PM] You: mein share krta hu
+[9/19/26, 8:55:20 PM] Cse Shreya Goyal✨senior: payment gateway add kiya hai kya abhi tk kahi?
+[9/19/26, 8:55:38 PM] You: im doin that rn
+[9/19/26, 8:55:41 PM] You: razorpay
+[9/19/26, 8:55:49 PM] You: but usme cost cut hoga
+[9/19/26, 8:55:55 PM] Cse Shreya Goyal✨senior: kitna?
+[9/19/26, 8:56:00 PM] You: 2%
+[9/19/26, 8:56:13 PM] Cse Shreya Goyal✨senior: aur koi better alternative?
+[9/19/26, 8:56:42 PM] Cse Shreya Goyal✨senior: direct qr code agr kre to? g form ke through?
+[9/19/26, 8:56:55 PM] You: also i think, QR based verification, with utr id is better option, usme kuch rules daal denge, taaki koi forge na kr sake payment, also we have quite a big team for verification
+[9/19/26, 8:57:38 PM] You: site ke through kr sakte hain, g-form ke through thoda unprofessional lgega
+[9/19/26, 8:57:38 PM] Cse Shreya Goyal✨senior: okk, is there any kind of limit as well on receiving amount on a savings account?
+[9/19/26, 8:58:04 PM] Cse Shreya Goyal✨senior: ha jo bhi verified way me ho bs wahi krna hai apn ko
+[9/19/26, 8:58:16 PM] You: hn uspe toh hoti hai, also abhi kuch new regime aayi hai on upi payments, toh ek baar verify krke i'll tell you
+[9/19/26, 8:58:34 PM] Cse Shreya Goyal✨senior: okk
+[9/19/26, 8:58:38 PM] You: approx per person, kitna charge krne waale hain, and estimate janta?
+[9/19/26, 8:58:55 PM] You: round figure mil jaata toh , calculate krke bata deta
+[9/19/26, 8:59:01 PM] Cse Shreya Goyal✨senior: 50 teams for final round (1100 per team)
+[9/19/26, 8:59:13 PM] You: okay
+[9/19/26, 8:59:23 PM] Cse Shreya Goyal✨senior: abhi yeh planed hai, iske according dekho
+[9/19/26, 8:59:34 PM] You: ispr jyada nhi aana chiye
+[9/19/26, 8:59:52 PM] Cse Shreya Goyal✨senior: round 1 free hi krenge phele usko 50 per team sochre the
+[9/19/26, 9:00:14 PM] You: i'll check and tell you, also ek payment gateway manual type he bnaya tha maine, uski recording bhejta hu, agar aapko theek lge toh vaise kr lenge hum
+[9/19/26, 9:00:34 PM] Cse Shreya Goyal✨senior: okk
+[9/19/26, 9:00:47 PM] Cse Shreya Goyal✨senior: find krlo sb fir btana merko jo bhi best mile
+[9/19/26, 9:00:57 PM] You: okay maam
+[9/19/26, 9:01:02 PM] You: still, for ideas, ek common group rehna chiye for ideation, what do you say?
+[9/19/26, 9:01:20 PM] You: also tentative date kya rakh rhe the hackathon ki?
+[9/19/26, 9:01:58 PM] You: kyuki exams , lab evaluation, chutti, festivals, every thing is aligned in next months
+[9/19/26, 9:02:21 PM] Cse Shreya Goyal✨senior: hackthon date is 24-25 oct
+[9/19/26, 9:02:30 PM] Cse Shreya Goyal✨senior: venue SAC
+[9/19/26, 9:02:41 PM] Cse Shreya Goyal✨senior: unstop hosting done
+[9/19/26, 9:02:50 PM] You: okay okay maam, sorry mein hackathon related 2 meets miss krdi
+[9/19/26, 9:03:04 PM] You: mein aapko btata hu
+[9/19/26, 9:03:08 PM] You: jald se jald
+[9/19/26, 9:03:28 PM] Cse Shreya Goyal✨senior: okk abhi jo bola hai wo krlo, baki common grp wala bhi krte hai aage
+[9/19/26, 9:23:49 PM] You: okay maam, mein aapko kal tak de dunga, sab, started my work, thodi tabiyat khatm hai
+[9/19/26, 9:52:02 PM] Cse Shreya Goyal✨senior: okk
+[9/19/26, 10:04:20 PM] You: You deleted this message
+[9/19/26, 10:04:20 PM] You: You deleted this message
+[9/19/26, 10:38:13 PM] You: <video omitted>
+[9/19/26, 10:40:04 PM] You: aise hum bna sakte hain, the site is shelved, nhi toh google sign in, aur database vagera ka schema dikha deta aapko, also , usme download as zip option bhi hai, toh excel mein kaam krke, site pr jaake manually verify kr sakte hain, ya direct admin panel through bhi kr sakte hain, also approve krne waale ki email id's bhi log hongi toh, koi insider ghapla bhi nhi kr sakte
+[9/19/26, 10:40:28 PM] You: yeh like admin panel and student dashboard
+[9/19/26, 10:42:00 PM] Cse Shreya Goyal✨senior: kitna time lga tha isko krna me?
+[9/19/26, 10:42:34 PM] You: isko krne mein toh 1 week lga tha, kyuki khudse he design kiya tha, aur payment bada tha toh loopholes nhi chaiye the
+[9/19/26, 10:42:44 PM] You: baaki abhi toh source code hai apne paas
+[9/19/26, 10:42:51 PM] You: toh jaldi bn jaega
+[9/19/26, 10:43:12 PM] You: time jaega mostly testing mein
+[9/19/26, 10:43:25 PM] You: toh test krne ke liye boht log hain apne paas
+[9/19/26, 10:43:45 PM] You: sab ek baar bhi poora process complete krenge, toh aaram se bugs mil jaenge
+[9/19/26, 10:44:08 PM] Cse Shreya Goyal✨senior: ha vaise bhi payement round 2 ke time lagegi mtlb round 1 ke results ke baad, like 10 oct ke around
+[9/19/26, 10:44:20 PM] You: tab tak toh aram se hojaega
+[9/19/26, 10:44:40 PM] Cse Shreya Goyal✨senior: ha to fir abhi simple website bna lo unstop pr laga denge
+[9/19/26, 10:44:58 PM] You: also hum isme split wala bhi daal sakte hain, ki ek team bna denge, usme 4 log enroll honge, aur sab apna part krdega
+[9/19/26, 10:45:12 PM] You: payment
+[9/19/26, 10:45:16 PM] Cse Shreya Goyal✨senior: 1-2 din me jitna bn paye, fir wo complete hote hi payment wale part me lg jana integrate krne ko
+[9/19/26, 10:45:27 PM] You: okay maam
+[9/19/26, 10:45:43 PM] You: website refrences bheju?
+[9/19/26, 10:45:52 PM] Cse Shreya Goyal✨senior: ha dekh lena jayada load na ho, vaise leader hi krta hai register sb hackathon me mostly
+[9/19/26, 10:46:13 PM] Cse Shreya Goyal✨senior: ha
+[9/19/26, 10:46:16 PM] You: hnm better rhega yehi fir
+[9/19/26, 10:47:02 PM] You: i was thinking, web design mein graphics ke leads ki help lele, although i have knowledge, but meko lga akmal sir ka kaam acha hai kaafi
+[9/19/26, 10:47:22 PM] Cse Shreya Goyal✨senior: wo already busy hai kafi graphics ka kaam hai
+[9/19/26, 10:47:43 PM] You: okay okay maam
+[9/19/26, 10:47:46 PM] Cse Shreya Goyal✨senior: new recruits hai na ab unko lena hai iske liye
+[9/19/26, 10:47:53 PM] You: okay maam
+[9/19/26, 10:48:12 PM] You: https://hackathon.manipal.edu/
+
+iska font theek theek lgra hai
+[9/19/26, 10:48:59 PM] You: https://www.hackinverse.tech/
+
+iska lift wala effect aur hero section mein ek sticker latak rha hai voh
+[9/19/26, 10:49:09 PM] Cse Shreya Goyal✨senior: ha ek ciz aur register unstop pr hi hoga sirf
+[9/19/26, 10:49:38 PM] Cse Shreya Goyal✨senior: yeh unki collab condition hai kyoki, round 2 ka payement hm alg se le skte bs
+[9/19/26, 10:49:54 PM] You: acha acha
+[9/19/26, 10:50:33 PM] You: umm sochta hu kuch, kyuki basic details toh lgengi, for verification of payment,
+[9/19/26, 10:50:39 PM] You: dono jagah nhi krwa sakte?
+[9/19/26, 10:50:49 PM] Cse Shreya Goyal✨senior: ise to merko wo tumara gurudev wala block effect jayada sundr laga tha
+[9/19/26, 10:51:21 PM] Cse Shreya Goyal✨senior: nii not allowed
+[9/19/26, 10:51:27 PM] You: humne devfolio ya koi alternative koi kyu nhi try kiya?
+unstop he kyu?
+[9/19/26, 10:51:48 PM] Cse Shreya Goyal✨senior: jayada known hai to reach milegi waha se
+[9/19/26, 10:51:53 PM] You: okay, but still basic details toh lgengi he
+[9/19/26, 10:52:13 PM] Cse Shreya Goyal✨senior: abhi registraion part rehen dena wo round 2 me dekh lenge
+[9/19/26, 10:52:19 PM] You: okay
+[9/19/26, 10:52:29 PM] You: abhi basic site design dekhte hain
+[9/19/26, 10:52:48 PM] You: https://hhgoa.com/
+
+iska overall theme aur graphics boht crazy hai
+[9/19/26, 10:53:34 PM] You: hn, iska toh voh just niche ek lift wala part hai, uski jagah hum astronaut ko spaceship se bahar nikalte hue with scroll , aisa kuch animate kr sakte hain
+[9/19/26, 10:54:40 PM] Cse Shreya Goyal✨senior: ha kafi alg hai yeh
+[9/19/26, 10:55:06 PM] Cse Shreya Goyal✨senior: ha ya sirf rocket up down bhi kr skte
+[9/19/26, 10:55:31 PM] You: https://www.innohacks.live/
+
+iska voh chotu jo cursor ke sath ghoomra hai, uski jagah kuch aur
+[9/19/26, 10:55:36 PM] You: better
+[9/19/26, 10:55:58 PM] Cse Shreya Goyal✨senior: crazyyy yrr
+[9/19/26, 10:56:50 PM] You: hamari hackathon ka naam?
+[9/19/26, 10:56:56 PM] Cse Shreya Goyal✨senior: iss type ka bg me blackhole krke up down inside out kr skte?
+[9/19/26, 10:57:14 PM] Cse Shreya Goyal✨senior: nakshtra
+[9/19/26, 10:57:34 PM] Cse Shreya Goyal✨senior: https://unstop.com/p/nakshatra-the-aerospace-hackathon-2026-madhav-institute-of-technology-and-science-mits-gwalior-1751540
+[9/19/26, 10:57:55 PM] Cse Shreya Goyal✨senior: abhi editing stage me hai yeh, aur bhi data upload hona hai ispr
+[9/19/26, 10:59:03 PM] You: well nice name, https://srijan-setu.vercel.app/
+
+ye wala hindi font use kr sakte hain, for nakshatra, also iska timer wala effect ki inspiration
+[9/19/26, 11:00:16 PM] You: acha, jaise voh minecraft ka video play hora hai on scroll vaisa kehri ho aap shayad right?
+[9/19/26, 11:00:52 PM] Cse Shreya Goyal✨senior: ha
+[9/19/26, 11:01:34 PM] Cse Shreya Goyal✨senior: acha hai, but is type ka font kafi dekha hai mene
+[9/19/26, 11:01:50 PM] You: uske liye bus video generate acha hona chiye, site mein toh aram se lg jaega
+[9/19/26, 11:01:59 PM] You: okay
+[9/19/26, 11:02:15 PM] You: but hamein naam ig hindi font mein he rakhna chiye
+[9/19/26, 11:02:19 PM] You: catchy lgega
+[9/19/26, 11:02:27 PM] You: ya jaisa graphics waale bnate hain
+[9/19/26, 11:02:31 PM] You: vohi use krenge
+[9/19/26, 11:02:52 PM] You: https://www.dsudevhack3.tech/
+
+isme iska timeline waale effect se inspiration le lenge
+[9/19/26, 11:03:18 PM] You: instead of vertical scroll, horizontal gsap scroll would fit here
+[9/19/26, 11:04:55 PM] Cse Shreya Goyal✨senior: yaa and car ki jagh rocket types
+[9/19/26, 11:06:19 PM] You: hum sab kuch toh site mein nhi daal sakte, but yeh waala meko best idea lga, we can save this for later events too
+
+https://www.metamorph.cloud/
+
+yeh site like proper comic book showcase krke btati hai, graphics waale aisa comic book bna denge, and usko hum aise story ya as a caraousel ya brochure showcase kr sakte hain, just animations and images, load bhi kam aaega site pr, we can use this idea anywhere, if you can imagine this
+[9/19/26, 11:07:28 PM] You: https://www.recursiveacm.in/
+
+iska footer acha hai, inspiration le sakte hain
+[9/19/26, 11:07:52 PM] Cse Shreya Goyal✨senior: <image omitted> logo yeh hai abhi apna
+[9/19/26, 11:08:53 PM] You: umm yeh final hai?
+[9/19/26, 11:08:56 PM] Cse Shreya Goyal✨senior: ha nice, kuch space themed bs
+[9/19/26, 11:09:28 PM] Cse Shreya Goyal✨senior: yup, koi better alternative hai to change kr skte abhi to print ni hua hai
+[9/19/26, 11:09:37 PM] You: https://www.hackspire.tech/
+
+iska bhi timeline and FAQs badhiya lgra hai
+[9/19/26, 11:09:52 PM] You: okay okay
+[9/19/26, 11:10:31 PM] Cse Shreya Goyal✨senior: hmm kafi sare hogaye ab ig shortlist krlo final jo bhi use kree
+[9/19/26, 11:11:54 PM] You: vohi dikkat hai
+[9/19/26, 11:12:01 PM] You: shortlist mein help chaiye meko
+[9/19/26, 11:12:23 PM] You: ig hamein iske liye meet krni chaiye
+[9/19/26, 11:12:42 PM] You: aur like aapko final site kab tak chaiye?
+[9/19/26, 11:12:46 PM] Cse Shreya Goyal✨senior: https://hack2skill.com/event/bah2026/
+inki achi lagti merko simple clean to the point
+[9/19/26, 11:13:30 PM] Cse Shreya Goyal✨senior: kl tk, monday ko post krdenge fir
+[9/19/26, 11:13:44 PM] Cse Shreya Goyal✨senior: meet ka time ni
+[9/19/26, 11:13:49 PM] You: okay
+[9/19/26, 11:13:52 PM] You: okay
+[9/19/26, 11:13:52 PM] Cse Shreya Goyal✨senior: isliye to tumko bola direct
+[9/19/26, 11:14:21 PM] You: aisa kuch , isse better banake deta hu aapko fir
+[9/19/26, 11:14:56 PM] You: umm fir main website ke liye kuch krenge bada
+[9/19/26, 11:15:04 PM] Cse Shreya Goyal✨senior: okk isko main reference lelo, baki fir abhi jo bhi points discuss hue wo features add ho to krdena
+[9/19/26, 11:15:23 PM] You: 😅okii
+[9/19/26, 11:15:31 PM] Cse Shreya Goyal✨senior: ha ha krna usme aaram se
+[9/19/26, 11:16:12 PM] Cse Shreya Goyal✨senior: dekho hero section me ya to wo minecraft wale types bna do agr video achi bn jaye, otherwise wo rocket up down wala krdena
+[9/19/26, 11:16:40 PM] Cse Shreya Goyal✨senior: first attractive element to wahi hota website ka kyoki
+[9/19/26, 11:16:55 PM] You: mein kal aapko dopahar 12 bje, fir 3 bje, fir 6 bje, aur fir 9 bje, aur last 12 bje tak , har baari, ek ek page bnake deta hu
+[9/19/26, 11:17:12 PM] Cse Shreya Goyal✨senior: okk
+[9/19/26, 11:17:15 PM] You: meko content chiye lekin
+[9/19/26, 11:17:24 PM] You: nhi toh content mein time jaega
+[9/19/26, 11:17:34 PM] Cse Shreya Goyal✨senior: hacksagon wali website se utha lena
+[9/19/26, 11:17:44 PM] You: 😅
+[9/19/26, 11:17:48 PM] Cse Shreya Goyal✨senior: baki kahi lage to merka bta dena, i will provide
+[9/19/26, 11:17:54 PM] You: okay
+[9/19/26, 11:18:15 PM] You: content mtlb, brochure vagera,
+[9/19/26, 11:18:19 PM] You: agar bna ho toh
+[9/19/26, 11:18:36 PM] Cse Shreya Goyal✨senior: bnra hai abhi sbko deadline ke sath alloted hai kl ki
+[9/19/26, 11:18:44 PM] You: acha acha
+[9/19/26, 11:18:50 PM] You: abhi dummy daal dunga
+[9/19/26, 11:18:54 PM] You: koi na
+[9/19/26, 11:18:58 PM] You: You deleted this message
+[9/19/26, 11:19:15 PM] You: good nini
+[9/19/26, 11:20:30 PM] Cse Shreya Goyal✨senior: [Forwarded] <image omitted>
