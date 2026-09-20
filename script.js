@@ -14,6 +14,7 @@ window.addEventListener('scroll', () => {
 // Generate Stars Background
 function createStars() {
     const container = document.getElementById('stars-container');
+    if (!container) return;
     const starCount = 150;
     
     for (let i = 0; i < starCount; i++) {
@@ -44,10 +45,24 @@ function createStars() {
 
 // GSAP Animations
 function initAnimations() {
-    // Hero Section Parallax
-    gsap.to("#astronaut", {
-        yPercent: 50,
+    // Hero Section Parallax for spaceship
+    gsap.to("#spaceship-container", {
+        yPercent: 30,
         ease: "none",
+        scrollTrigger: {
+            trigger: "#hero",
+            start: "top top",
+            end: "bottom top",
+            scrub: true
+        }
+    });
+
+    // Astronaut emerging/floating away from spaceship
+    gsap.to("#astronaut", {
+        x: -150,
+        y: -100,
+        rotation: -45,
+        ease: "power1.out",
         scrollTrigger: {
             trigger: "#hero",
             start: "top top",
